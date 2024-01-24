@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ixvoWloVD3nyDXHqERZvrVXclWmAQ0Kc6qzETG1+/zj/VbHmEuWz+1jkE0j52wvwMI8hRtuQ5bs9Vb00m/wgzg==",
+  "dgSpecHash": "GzlqkGy4x90GBehZAiPT62mbYW/Nm7tIb65T/Hf3ucCZNFp1uw1+Zj30iax4MHjAln8Z+GHnci16PdaIpqTLAg==",
   "success": true,
-  "projectFilePath": "/Users/danielzeegler/Programming/C#/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+  "projectFilePath": "/Users/danielzeegler/Programming/C#/CSharp/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

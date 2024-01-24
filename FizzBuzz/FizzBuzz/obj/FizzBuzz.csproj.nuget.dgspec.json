@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielzeegler/Programming/C#/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {}
+    "/Users/danielzeegler/Programming/C#/CSharp/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {}
   },
   "projects": {
-    "/Users/danielzeegler/Programming/C#/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
+    "/Users/danielzeegler/Programming/C#/CSharp/FizzBuzz/FizzBuzz/FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielzeegler/Programming/C#/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+        "projectUniqueName": "/Users/danielzeegler/Programming/C#/CSharp/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "/Users/danielzeegler/Programming/C#/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+        "projectPath": "/Users/danielzeegler/Programming/C#/CSharp/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
         "packagesPath": "/Users/danielzeegler/.nuget/packages/",
-        "outputPath": "/Users/danielzeegler/Programming/C#/FizzBuzz/FizzBuzz/obj/",
+        "outputPath": "/Users/danielzeegler/Programming/C#/CSharp/FizzBuzz/FizzBuzz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danielzeegler/.nuget/NuGet/NuGet.Config"
